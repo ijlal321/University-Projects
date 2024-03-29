@@ -1,0 +1,4 @@
+ijlal,0,Non-Veg
+ali,3,Non-Veg
+ervcnor3,4,Non-Veg
+none,-1,none

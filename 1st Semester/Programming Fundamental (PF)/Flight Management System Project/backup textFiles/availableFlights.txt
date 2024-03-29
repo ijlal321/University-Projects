@@ -1,0 +1,6 @@
+Lahore,Islamabad,01-01-2003,8000
+Karachi,Lahore,01-01-2003,8200
+Islamabad,Karachi,01-01-2003,8400
+Lahore,Karachi,01-01-2003,8600
+Karachi,Islamabad,01-01-2003,8800
+Islamabad,Lahore,01-01-2003,9000
